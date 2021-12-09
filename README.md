@@ -1,2 +1,2 @@
-# Apprentissage-ODK
-Dépôt d'apprentissage de l'outils ODK
+# Apprentissage ODK
+Dépôt d'apprentissage de l'outis  ODK
